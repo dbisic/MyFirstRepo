@@ -1,1 +1,2 @@
 Welcome to the TextFileA.
+Today we will practice some GIT.
